@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "source": ".", // Specifies the source directory for framework detection
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+    // We might add rewrites or frameworksBackend section later if needed,
+    // but let's see if detection works with just "source" first.
+  }
+}
