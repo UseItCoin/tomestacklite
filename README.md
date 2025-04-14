@@ -1,6 +1,16 @@
-# TomElite - E-Book Platform
+# TomeStack - E-Book Platform
 
-TomElite is a modern e-book platform built with Next.js and Firebase, designed to provide a seamless reading experience. The application allows users to browse, search, and read e-books, with AI-powered features for enhanced content interaction.
+TomeStack is a modern e-book platform built with Next.js and Firebase, designed to provide a seamless reading experience. The application allows users to browse, search, and read e-books, with AI-powered features for enhanced content interaction. This project is part of the TomeStack course curriculum, designed to teach modern full-stack web development using Next.js, Firebase, and AI integrations.
+
+The basic TomeStackLite "foothold" version can be found at https://github.com/useitcoin/tomestacklite
+
+To see the code from https://github.com/useitcoin/tomestacklite in action, visit https://tomelite.web.app
+
+## 🌐 Live Demo
+
+The TomeStackLite app is live at:  
+👉 [https://tomelite.web.app](https://tomelite.web.app)
+
 
 ## 🚀 Features
 
@@ -36,8 +46,8 @@ TomElite is a modern e-book platform built with Next.js and Firebase, designed t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tomelite-app.git
-   cd tomelite-app
+   git clone https://github.com/useitcoin/tomestacklite.git
+   cd tomestacklite
    ```
 
 2. Install dependencies:
@@ -110,7 +120,7 @@ yarn typecheck
 ## 📁 Project Structure
 
 ```
-tomelite-app/
+tomestacklite/
 ├── public/             # Static assets
 ├── src/
 │   ├── ai/             # AI-related code
